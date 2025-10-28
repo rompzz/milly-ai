@@ -17,7 +17,7 @@ export default function Home() {
         {/* The Promise */}
         <div className="bg-blue-900/30 border-2 border-blue-600 rounded-lg p-8 mb-8">
           <p className="text-2xl font-semibold text-center mb-2">
-            🎯 Your finish time is non-negotiable.
+             Your finish time is non-negotiable.
           </p>
           <p className="text-lg text-center text-gray-300">
             We back-schedule everything, coordinate resources, 
